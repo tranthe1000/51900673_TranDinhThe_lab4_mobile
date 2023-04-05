@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/removeSelected"
+        android:title="REMOVE SELECTED"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/removeAll"
+        android:title="REMOVE ALL"
+        app:showAsAction="never"></item>
+</menu>
